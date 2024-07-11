@@ -369,7 +369,7 @@ background-color: rgb(241, 199, 180);
   background-color: #ebad3a;
   margin: 0;
   float: left;
-  background-image: url("D:\BHARAT\Aymanam2.jpg");
+  background-image: url("Aymanam2.jpg");
 background-size: 100%;
 margin-left: 5px;
 border-bottom: 15px solid sienna;
@@ -411,7 +411,7 @@ background-color: rgb(124, 99, 99);
   background-color: #68a9f3;
   margin: 0;
   float:left;
-  background-image: url("D:\BHARAT\Aymanam2.jpg");
+  background-image: url("Aymanam2.jpg");
 background-size: 100%;
 border-bottom: 15px solid tomato;
 margin-left: 5px;
@@ -496,7 +496,7 @@ background-color: rgb(124, 99, 99);
   background-color: #5ef59d;
 border-bottom: 15px solid springgreen;
   float: left;
-  background-image: url("D:\BHARAT/3-Ayruveda2.jpg");
+  background-image: url("3-Ayruveda2.jpg");
 background-size: 100%;
 margin-left: 5px;
 }
@@ -542,8 +542,8 @@ background-color: rgb(124, 99, 99);
 /* background-color: #69aae7; */
   margin: 0;
   float: left;
-  /* background-image: url("D:\BHARAT\imagesjudaisam12.jpg"); */
-  background-image: url("D:\BHARAT\images/alappuzha-beach.jpg");
+background-image: url("imagesjudaisam12.jpg");
+/*   background-image: url("D:\BHARAT\images/alappuzha-beach.jpg"); */
 background-size: 100%;
 margin-left: 5px;
 border-bottom: 15px solid teal;
@@ -585,7 +585,7 @@ background-color: rgb(124, 99, 99);
   background-color: #bb0000;
   margin: 0;
   float: left;
-  background-image: url("D:\BHARAT/BHARAT/images/palakkad-ebrochure1.jpg");
+  background-image: url("palakkad-ebrochure1.jpg");
 background-size: 100%;
 margin-left: 5px;
 border-bottom: 15px solid tomato;
